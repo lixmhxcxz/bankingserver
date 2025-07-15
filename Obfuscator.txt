@@ -1,0 +1,4 @@
+**WARNING:**
+This obsfuscator has been used for securing the code from malpractice
+
+https://freecodingtools.org/tools/obfuscator/python
